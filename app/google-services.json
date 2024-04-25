@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36246649455",
+    "project_id": "kotlin-25b1f",
+    "storage_bucket": "kotlin-25b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36246649455:android:bb7ccce989e50f0c8d2b9a",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbAnclAzTglN4jGUhY8tS-JTEPP-TZhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
